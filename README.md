@@ -1,4 +1,4 @@
-The equation of the universe: <img src="https://render.githubusercontent.com/render/math?math=H^{2} = \left ( \dfrac{\dot{a}}{a} \right )^{2} = \dfrac{8\pi G}{3}\rho-\dfrac{kc^{2}}{a^{2}}+\dfrac{\Lambda c^{2}}{3}">
+Everything evolves with time, even the universe. <img src="https://render.githubusercontent.com/render/math?math=H^{2} = \left ( \dfrac{\dot{a}}{a} \right )^{2} = \dfrac{8\pi G}{3}\rho-\dfrac{kc^{2}}{a^{2}}%2B\dfrac{\Lambda c^{2}}{3}">
 
 <!--
 **vishal-keshav/vishal-keshav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
